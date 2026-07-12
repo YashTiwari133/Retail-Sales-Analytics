@@ -68,6 +68,8 @@ CREATE TABLE orders (
     promotion_id INT,
     order_date DATE,
     payment_method VARCHAR(30),
+    order_status VARCHAR(30),
+    total_amount INT,
     FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
     FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
     FOREIGN KEY (store_id) REFERENCES stores(store_id),
