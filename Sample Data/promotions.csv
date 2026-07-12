@@ -1,0 +1,21 @@
+promotion_id,promotion_name,discount_percentage,start_date,end_date
+1,New Year Sale,15,01-01-2026,15-01-2026
+2,Republic Day Offer,20,20-01-2026,30-01-2026
+3,Valentine Special,10,10-02-2026,15-02-2026
+4,Holi Festival Sale,25,01-03-2026,10-03-2026
+5,Summer Discount,15,01-04-2026,30-04-2026
+6,End Of Season Sale,30,01-05-2026,15-05-2026
+7,Monsoon Offer,20,01-06-2026,15-06-2026
+8,Independence Day Sale,25,01-08-2026,15-08-2026
+9,Teachers Day Offer,10,01-09-2026,10-09-2026
+10,Festival Mega Sale,35,01-10-2026,20-10-2026
+11,Diwali Discount,40,25-10-2026,05-11-2026
+12,Black Friday Sale,30,20-11-2026,30-11-2026
+13,Christmas Offer,25,15-12-2026,25-12-2026
+14,Winter Clearance,20,01-01-2027,15-01-2027
+15,Weekend Special,10,01-02-2027,28-02-2027
+16,Customer Loyalty Offer,15,01-03-2027,31-03-2027
+17,Electronics Fest,25,01-04-2027,15-04-2027
+18,Fashion Week Sale,30,01-05-2027,10-05-2027
+19,Big Billion Sale,50,01-06-2027,15-06-2027
+20,Mega Savings Offer,35,01-07-2027,20-07-2027

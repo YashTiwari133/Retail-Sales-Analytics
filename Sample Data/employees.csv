@@ -1,0 +1,101 @@
+employee_id,employee_name,designation,store_id,hire_date,salary
+1,Rajesh Sharma,Store Manager,1,15-01-2020,55000
+2,Priya Verma,Sales Executive,1,10-03-2021,28000
+3,Amit Patel,Sales Executive,2,20-05-2021,30000
+4,Neha Singh,Cashier,2,12-01-2022,25000
+5,Rohan Gupta,Store Manager,3,18-07-2019,60000
+6,Ananya Mehta,Sales Executive,3,25-03-2022,32000
+7,Vikas Jain,Inventory Manager,4,10-08-2020,45000
+8,Sneha Rao,Sales Executive,4,05-11-2021,29000
+9,Karan Malhotra,Cashier,5,15-06-2022,26000
+10,Simran Kaur,Store Manager,5,20-10-2019,62000
+11,Arjun Yadav,Sales Executive,6,14-02-2021,30000
+12,Pooja Mishra,Cashier,6,18-04-2022,25000
+13,Raj Kapoor,Inventory Manager,7,25-05-2020,47000
+14,Isha Nair,Sales Executive,7,12-09-2021,31000
+15,Manish Reddy,Store Manager,8,01-12-2019,58000
+16,Kavya Shah,Sales Executive,8,10-07-2022,30000
+17,Aditya Joshi,Cashier,9,22-01-2021,26000
+18,Riya Bose,Sales Executive,9,05-09-2022,29000
+19,Sahil Agarwal,Store Manager,10,17-03-2020,59000
+20,Nidhi Saxena,Sales Executive,10,20-12-2021,31000
+21,Varun Sethi,Cashier,1,10-01-2023,26000
+22,Tanya Arora,Sales Executive,2,15-02-2023,28000
+23,Mohit Chauhan,Inventory Manager,3,05-03-2023,43000
+24,Divya Menon,Sales Executive,4,12-04-2023,30000
+25,Nitin Pandey,Cashier,5,18-05-2023,25000
+26,Shreya Kulkarni,Sales Executive,6,20-06-2023,32000
+27,Ravi Singh,Inventory Manager,7,25-07-2023,45000
+28,Meera Iyer,Sales Executive,8,10-08-2023,30000
+29,Deepak Raj,Cashier,9,15-09-2023,26000
+30,Aarti Deshmukh,Sales Executive,10,20-10-2023,31000
+31,Harsh Vyas,Sales Executive,1,05-01-2024,29000
+32,Pallavi Das,Cashier,2,10-02-2024,25000
+33,Rohit Bansal,Sales Executive,3,15-03-2024,30000
+34,Komal Joshi,Inventory Manager,4,20-04-2024,46000
+35,Yash Tiwari,Sales Executive,5,25-05-2024,30000
+36,Akash Sharma,Cashier,6,10-06-2024,26000
+37,Sonali Patil,Sales Executive,7,15-07-2024,31000
+38,Rakesh Gupta,Store Manager,8,20-08-2024,57000
+39,Preeti Soni,Sales Executive,9,25-09-2024,29000
+40,Abhishek Roy,Cashier,10,30-10-2024,25000
+41,Mansi Sharma,Sales Executive,1,05-11-2024,30000
+42,Saurabh Verma,Cashier,2,10-12-2024,26000
+43,Ritika Jain,Sales Executive,3,15-01-2025,31000
+44,Ankit Mehra,Inventory Manager,4,20-02-2025,45000
+45,Namita Rao,Sales Executive,5,25-03-2025,30000
+46,Shubham Yadav,Cashier,6,10-04-2025,25000
+47,Alisha Khan,Sales Executive,7,15-05-2025,32000
+48,Pranav Shah,Store Manager,8,20-06-2025,60000
+49,Monika Ahuja,Sales Executive,9,25-07-2025,30000
+50,Varsha Nair,Cashier,10,30-08-2025,26000
+51,Aman Shukla,Sales Executive,1,05-09-2025,30000
+52,Kriti Gupta,Cashier,2,10-09-2025,25000
+53,Vivek Patel,Inventory Manager,3,15-09-2025,45000
+54,Rashi Singh,Sales Executive,4,20-09-2025,31000
+55,Harshit Gupta,Cashier,5,25-09-2025,26000
+56,Naina Mehta,Sales Executive,6,01-10-2025,30000
+57,Manav Jain,Store Manager,7,05-10-2025,58000
+58,Ayesha Rao,Sales Executive,8,10-10-2025,31000
+59,Kunal Sethi,Cashier,9,15-10-2025,26000
+60,Jaspreet Kaur,Sales Executive,10,20-10-2025,30000
+61,Dev Yadav,Inventory Manager,1,25-10-2025,44000
+62,Anjali Mishra,Sales Executive,2,01-11-2025,29000
+63,Keshav Kapoor,Cashier,3,05-11-2025,25000
+64,Diya Nair,Sales Executive,4,10-11-2025,32000
+65,Rajat Reddy,Store Manager,5,15-11-2025,59000
+66,Priyanshi Shah,Sales Executive,6,20-11-2025,30000
+67,Ayush Joshi,Cashier,7,25-11-2025,26000
+68,Sakshi Bose,Sales Executive,8,01-12-2025,31000
+69,Rishabh Agarwal,Inventory Manager,9,05-12-2025,46000
+70,Isha Saxena,Sales Executive,10,10-12-2025,30000
+71,Arnav Sethi,Cashier,1,15-12-2025,25000
+72,Simran Arora,Sales Executive,2,20-12-2025,31000
+73,Yuvraj Chauhan,Store Manager,3,25-12-2025,60000
+74,Nisha Menon,Sales Executive,4,05-01-2026,30000
+75,Prateek Pandey,Cashier,5,10-01-2026,26000
+76,Shivani Kulkarni,Inventory Manager,6,15-01-2026,45000
+77,Varun Singh,Sales Executive,7,20-01-2026,30000
+78,Rhea Iyer,Cashier,8,25-01-2026,25000
+79,Ashish Raj,Sales Executive,9,01-02-2026,31000
+80,Priya Deshmukh,Store Manager,10,05-02-2026,58000
+81,Hemant Vyas,Sales Executive,1,10-02-2026,30000
+82,Tanvi Das,Cashier,2,15-02-2026,26000
+83,Akshay Bansal,Inventory Manager,3,20-02-2026,45000
+84,Rupal Joshi,Sales Executive,4,25-02-2026,31000
+85,Kartik Sharma,Cashier,5,01-03-2026,25000
+86,Aditi Verma,Sales Executive,6,05-03-2026,30000
+87,Rohit Patil,Store Manager,7,10-03-2026,59000
+88,Swati Gupta,Sales Executive,8,15-03-2026,31000
+89,Vinay Soni,Cashier,9,20-03-2026,26000
+90,Shreya Roy,Sales Executive,10,25-03-2026,30000
+91,Adarsh Mehta,Inventory Manager,1,01-04-2026,45000
+92,Kirti Sharma,Sales Executive,2,05-04-2026,31000
+93,Rohan Verma,Cashier,3,10-04-2026,25000
+94,Neelam Yadav,Sales Executive,4,15-04-2026,30000
+95,Siddharth Khan,Store Manager,5,20-04-2026,60000
+96,Muskan Shah,Sales Executive,6,25-04-2026,31000
+97,Anurag Rao,Cashier,7,01-05-2026,26000
+98,Ritika Das,Inventory Manager,8,05-05-2026,45000
+99,Nikhil Jain,Sales Executive,9,10-05-2026,30000
+100,Payal Ahuja,Store Manager,10,15-05-2026,58000

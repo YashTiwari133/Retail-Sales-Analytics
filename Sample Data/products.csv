@@ -1,0 +1,201 @@
+product_id,product_name,category_id,supplier_id,cost_price,selling_price,stock_quantity
+1,Smartphone Samsung Galaxy,1,1,15000,18000,120
+2,Laptop HP Pavilion,1,2,45000,52000,50
+3,Bluetooth Headphones,1,3,1500,2500,200
+4,LED Television 43 inch,1,4,28000,35000,70
+5,Wireless Mouse,1,5,500,900,300
+6,Keyboard Mechanical,1,6,1200,2000,150
+7,Smart Watch,1,7,2500,4000,100
+8,Power Bank,1,8,800,1500,250
+9,Mobile Charger,1,9,400,800,400
+10,Tablet Android,1,10,12000,16000,80
+11,Cotton T Shirt,2,3,400,800,300
+12,Denim Jeans,2,4,900,1800,200
+13,Formal Shirt,2,5,700,1400,150
+14,Jacket Winter Wear,2,6,1500,3000,100
+15,Sports Track Pants,2,7,600,1200,180
+16,Women Kurti,2,8,500,1000,250
+17,Saree Designer,2,9,1200,2500,120
+18,Casual Shoes,9,10,1500,3000,100
+19,Running Shoes,9,1,2000,4500,90
+20,Leather Belt,10,2,300,700,250
+21,Sofa Set 5 Seater,3,4,25000,40000,20
+22,Dining Table,3,5,18000,30000,30
+23,Office Chair,3,6,5000,9000,60
+24,Bed Wooden,3,7,20000,35000,25
+25,Bookshelf,3,8,6000,10000,40
+26,Study Table,3,9,4000,8000,70
+27,Coffee Table,3,10,3000,6000,50
+28,Plastic Chair,3,1,500,1000,200
+29,Mattress Double Bed,3,2,7000,12000,40
+30,Wardrobe Wooden,3,3,15000,25000,30
+31,Rice 5kg,4,5,250,400,500
+32,Wheat Flour 10kg,4,6,350,600,400
+33,Sugar 5kg,4,7,180,300,350
+34,Cooking Oil 5L,4,8,500,750,300
+35,Coffee Powder,4,9,250,450,200
+36,Tea Pack,4,10,150,300,300
+37,Biscuits Pack,4,1,50,100,500
+38,Chocolate Box,4,2,200,350,250
+39,Cold Drink Pack,4,3,250,400,200
+40,Snacks Combo,4,4,300,550,180
+41,Face Wash,5,5,120,250,300
+42,Shampoo Bottle,5,6,200,400,250
+43,Body Lotion,5,7,150,300,200
+44,Perfume,5,8,500,1200,100
+45,Hair Oil,5,9,100,200,400
+46,Moisturizer,5,10,180,350,250
+47,Lipstick,5,1,200,500,150
+48,Sunscreen,5,2,250,600,120
+49,Face Cream,5,3,300,700,150
+50,Makeup Kit,5,4,800,1500,80
+51,Cricket Bat,6,5,1200,2500,100
+52,Football,6,6,500,1000,150
+53,Badminton Racket,6,7,800,1800,120
+54,Yoga Mat,6,8,400,900,200
+55,Gym Gloves,6,9,300,700,150
+56,Skipping Rope,6,10,100,300,250
+57,Cycle Helmet,6,1,500,1200,100
+58,Volleyball,6,2,400,800,120
+59,Tennis Ball Set,6,3,200,500,300
+60,Fitness Tracker,6,4,2000,4000,90
+61,Novel Book,7,5,150,300,200
+62,Programming Book,7,6,400,800,150
+63,Engineering Book,7,7,500,1000,100
+64,Story Book,7,8,200,450,250
+65,Dictionary,7,9,300,600,80
+66,Exam Preparation Book,7,10,350,700,200
+67,Notebook Pack,7,1,100,250,500
+68,Pen Set,7,2,50,150,600
+69,Drawing Book,7,3,80,200,300
+70,Magazine,7,4,50,120,400
+71,Refrigerator,8,5,25000,35000,40
+72,Washing Machine,8,6,20000,30000,50
+73,Microwave Oven,8,7,6000,10000,70
+74,Air Conditioner,8,8,30000,45000,30
+75,Mixer Grinder,8,9,2500,5000,100
+76,Vacuum Cleaner,8,10,5000,9000,60
+77,Water Purifier,8,1,7000,12000,50
+78,Electric Kettle,8,2,1200,2500,150
+79,Iron,8,3,800,1600,200
+80,Room Heater,8,4,1500,3000,100
+81,Sports Shoes,9,5,2000,4000,100
+82,Formal Shoes,9,6,1800,3500,120
+83,Sandals,9,7,700,1500,200
+84,Slippers,9,8,300,700,300
+85,Running Sneakers,9,9,2200,4500,90
+86,Wallet,10,10,300,800,250
+87,Sunglasses,10,1,500,1500,120
+88,Watch Analog,10,2,1500,3500,80
+89,Handbag,10,3,1000,2500,100
+90,Backpack,10,4,800,1800,150
+91,Camera,1,5,30000,45000,30
+92,Printer,1,6,8000,12000,60
+93,Speaker,1,7,2000,5000,100
+94,Router,1,8,1200,2500,150
+95,Hard Drive,1,9,4000,7000,80
+96,USB Cable,1,10,100,300,500
+97,Hoodie,2,1,700,1500,200
+98,Formal Trousers,2,2,800,1600,150
+99,Winter Cap,2,3,200,500,250
+100,Leather Jacket,2,4,3000,6000,70
+101,Smartphone iPhone 15,1,1,55000,65000,40
+102,Gaming Laptop,1,2,65000,85000,25
+103,Wireless Earbuds,1,3,1800,3500,180
+104,Smart LED TV 55 inch,1,4,40000,55000,40
+105,Web Camera,1,5,2000,3500,90
+106,USB Hub,1,6,600,1200,200
+107,Bluetooth Speaker,1,7,2500,4500,120
+108,Smart Home Device,1,8,3000,5500,70
+109,Memory Card,1,9,500,1000,300
+110,Smartphone Cover,1,10,150,500,500
+111,Formal Blazer,2,1,2500,5000,80
+112,Women Top,2,2,400,900,250
+113,Women Jeans,2,3,900,1800,180
+114,Men Sneakers,9,4,1800,4000,100
+115,Winter Sweater,2,5,1000,2200,150
+116,Track Jacket,2,6,1200,2500,100
+117,Ethnic Wear,2,7,1500,3500,90
+118,Kids Dress,2,8,500,1200,200
+119,Sports T Shirt,2,9,400,900,300
+120,Designer Handbag,10,10,1500,3500,80
+121,Corner Sofa,3,1,30000,50000,15
+122,Computer Table,3,2,6000,12000,60
+123,Recliner Chair,3,3,15000,25000,25
+124,Double Bed,3,4,25000,45000,20
+125,Wall Shelf,3,5,2000,5000,100
+126,Study Chair,3,6,3000,7000,80
+127,Dining Chair Set,3,7,8000,15000,40
+128,TV Cabinet,3,8,7000,13000,35
+129,Shoe Rack,3,9,2500,6000,70
+130,Curtains Set,3,10,1000,2500,150
+131,Pasta Pack,4,1,80,180,300
+132,Noodles Pack,4,2,40,100,500
+133,Spices Combo,4,3,250,600,200
+134,Dry Fruits Pack,4,4,400,800,150
+135,Jam Bottle,4,5,120,250,300
+136,Pickle Jar,4,6,150,300,250
+137,Cereal Pack,4,7,200,450,200
+138,Ice Cream Pack,4,8,100,250,150
+139,Frozen Food Pack,4,9,250,500,180
+140,Healthy Snacks,4,10,150,350,250
+141,Hair Conditioner,5,1,200,450,220
+142,Anti Dandruff Shampoo,5,2,250,550,200
+143,Beauty Soap Pack,5,3,100,250,400
+144,Hand Cream,5,4,120,300,300
+145,Nail Polish,5,5,80,200,250
+146,Makeup Brush Set,5,6,300,700,120
+147,Face Serum,5,7,400,900,100
+148,Eyeliner,5,8,150,350,200
+149,Body Spray,5,9,250,600,180
+150,Hair Dryer,5,10,800,1800,70
+151,Basketball,6,1,700,1500,120
+152,Cricket Gloves,6,2,800,1800,90
+153,Football Shoes,6,3,2000,4500,100
+154,Camping Bag,6,4,1500,3500,60
+155,Swimming Goggles,6,5,300,800,150
+156,Cycle,6,6,5000,9000,40
+157,Dumbbell Set,6,7,1500,3500,100
+158,Exercise Bench,6,8,4000,8000,50
+159,Sports Bottle,6,9,200,500,300
+160,Carrom Board,6,10,1500,3000,70
+161,History Book,7,1,300,600,150
+162,Science Book,7,2,400,800,120
+163,SQL Programming Book,7,3,500,1000,100
+164,Mathematics Book,7,4,350,700,150
+165,Competitive Exam Guide,7,5,400,900,200
+166,Children Story Book,7,6,150,300,250
+167,Diary Notebook,7,7,100,250,300
+168,Marker Set,7,8,80,200,400
+169,Color Pencil Set,7,9,100,300,250
+170,School Bag,7,10,600,1500,150
+171,Dishwasher,8,1,25000,40000,30
+172,Induction Cooktop,8,2,1500,3500,100
+173,Electric Stove,8,3,2000,4000,80
+174,Ceiling Fan,8,4,2000,4500,120
+175,Table Fan,8,5,1500,3000,100
+176,Smart Bulb,8,6,300,800,300
+177,LED Tube Light,8,7,200,500,400
+178,Toaster,8,8,1000,2200,120
+179,Coffee Maker,8,9,2500,5000,60
+180,Juicer Machine,8,10,3000,6500,50
+181,Office Shoes,9,1,1500,3500,100
+182,Party Shoes,9,2,1800,4000,80
+183,Kids Shoes,9,3,700,1600,200
+184,High Heels,9,4,1200,3000,100
+185,Flip Flops,9,5,200,500,300
+186,Travel Bag,10,6,1200,3000,100
+187,Smart Wallet,10,7,700,1800,120
+188,Belt Combo,10,8,500,1200,200
+189,Jewellery Box,10,9,600,1500,90
+190,Key Chain,10,10,100,300,400
+191,Monitor,1,1,8000,15000,70
+192,Graphics Card,1,2,25000,45000,30
+193,Processor,1,3,12000,25000,40
+194,SSD Drive,1,4,3000,7000,100
+195,Power Supply Unit,1,5,2500,5000,80
+196,Denim Jacket,2,6,1500,3500,100
+197,Cotton Pants,2,7,700,1500,200
+198,Leather Shoes,9,8,2500,5500,70
+199,Travel Backpack,10,9,1000,2500,150
+200,Premium Watch,10,10,3000,7000,50
