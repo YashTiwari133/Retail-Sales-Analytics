@@ -71,7 +71,8 @@ total_amount -
     ) AS amount_difference
 FROM orders;
 -- Q16 Find top 3 highest-value orders
+SELECT * FROM (
 SELECT order_id, customer_id, total_amount,
-DENSE_RANK() OVER(ORDER BY total_amount DESC) AS 'rank'
-FROM orders
-WHERE 'rank' <=3;
+DENSE_RANK() OVER(ORDER BY total_amount DESC) AS 'rank' 
+FROM orders) a
+WHERE a.rank <=3;
